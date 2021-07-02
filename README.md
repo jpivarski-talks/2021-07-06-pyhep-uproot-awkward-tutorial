@@ -20,7 +20,7 @@ Note that Binder may take a minute or two to start up.
 
 ## Running everything on your own computer
 
-This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [environment.yml](environment.yml) for a list of pip package names and versions.
+This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [environment.yml](environment.yml) for a list of package names and versions.
 
 ## Browsing the material online
 
