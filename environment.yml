@@ -16,7 +16,7 @@ dependencies:
   - python-xxhash==2.0.2
   - pip==21.1.2
   - pip:
-      - awkward==1.4.0rc6
+      - awkward==1.4.0
       - uproot==4.0.11
       - vector==0.8.3
       - particle==0.12.0
