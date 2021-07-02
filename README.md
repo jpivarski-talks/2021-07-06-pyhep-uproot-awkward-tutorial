@@ -16,18 +16,12 @@ The preferred way to run these notebooks is through a public cloud service calle
   </a>
 </p>
 
-Navigate in the JupyterLab file view (left sidebar) to the desired lesson. Note that Binder cannot save data permanently (reloading your web browser will take you to a new instance), and it may take up to a minute to start up.
+Note that Binder may take a minute or two to start up.
 
 ## Running everything on your own computer
 
-This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [requirements.txt](requirements.txt) for a list of pip package names.
+This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [environment.yml](environment.yml) for a list of pip package names and versions.
 
 ## Browsing the material online
 
-The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated](evaluated) directory for evaluated versions of both notebooks.
-
-## Uprooting hats that are awkwardly columnar
-
-<p align="center"><img src="img/blog1841_TheBuriedGnome800.jpg" width="400"></p>
-
-[(Used with permission.)](https://bagelhot.blogspot.com/2007/02/web-daze.html)
+The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated](evaluated) directory for an evaluated version of the notebook.
